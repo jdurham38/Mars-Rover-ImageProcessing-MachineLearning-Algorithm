@@ -1,4 +1,4 @@
-##Mars Rover Image Processing and Machine Learning Algorithm
+# Mars Rover Image Processing and Machine Learning Algorithm
 This project uses various image processing techniques to analyze images taken by the Mars Rover and identify interesting features. The following techniques were used:
 
 Edge detection: This technique is used to identify the boundaries between different regions in an image. It works by finding areas of high contrast between neighboring pixels.
